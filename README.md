@@ -1,2 +1,0 @@
-# NeProPetera
-Created with CodeSandbox
